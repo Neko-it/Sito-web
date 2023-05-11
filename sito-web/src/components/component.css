@@ -1,0 +1,51 @@
+.container{
+   background-color:#161616 ;
+   max-width: 120px;
+   min-width: min-content;
+   height: 100vh;
+   align-items: space-between;
+   justify-content: center;
+   display: fixed;
+   position: fixed;
+   border-right: 3px solid #ff8c00;
+}
+
+.logo{
+   height: 90px; 
+   
+   margin: 10px;
+   
+}
+
+.menuu{
+   
+   align-items:center;
+   display: fixed;
+   position: relative;
+}
+
+.link-text, .social{
+   color:#ff8c00;
+   
+}
+.link-text:hover{
+   color: red;
+}
+.social:hover{
+   color:blue; 
+}
+
+
+
+.main{
+   justify-content: center;
+   align-items: center;
+   display:flex;
+   margin-left: 110px;
+   height: 100vh;
+   background-color:#161616;
+   color:#ff8c00;
+   .lav{
+     height: 160px;
+   }
+}  

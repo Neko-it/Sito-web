@@ -1,0 +1,22 @@
+export const menuItem=[
+    {
+        path:"/",
+        name:"Home",
+    },
+    {
+        path:"/About",
+        name:"About",
+    },
+    {
+        path:"/Code",
+        name:"Code",
+    },
+    {
+        path:"/Software",
+        name:"Software",
+    },
+    {
+        path:"/Contact",
+        name:"Contact",
+    }
+]
