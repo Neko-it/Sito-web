@@ -1,18 +1,32 @@
 {
   "files": {
-    "main.css": "/Sito-web/static/css/main.c8656ce0.css",
-    "main.js": "/Sito-web/static/js/main.c4f2c72d.js",
+    "main.css": "/Sito-web/static/css/main.b4ab9957.css",
+    "main.js": "/Sito-web/static/js/main.73992387.js",
     "static/js/787.1c9734da.chunk.js": "/Sito-web/static/js/787.1c9734da.chunk.js",
     "static/media/logo1.png": "/Sito-web/static/media/logo1.dad8daadaa8d6277df34.png",
     "static/media/logo2.png": "/Sito-web/static/media/logo2.2e29d7522b0e71f547ad.png",
+    "static/media/python.png": "/Sito-web/static/media/python.c44b9b809ebf766cbb4f.png",
     "static/media/video.mp4": "/Sito-web/static/media/video.b8dad4b16fa486bd3fd0.mp4",
+    "static/media/mongoDB.png": "/Sito-web/static/media/mongoDB.24b3ddc353869ac84093.png",
+    "static/media/androidstudio.png": "/Sito-web/static/media/androidstudio.98de25869ca342f3eda7.png",
+    "static/media/mysql.jpg": "/Sito-web/static/media/mysql.58c13c5b78e7dc9bc859.jpg",
+    "static/media/react.png": "/Sito-web/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/java.png": "/Sito-web/static/media/java.fc241426afd8f52a312e.png",
+    "static/media/blender.png": "/Sito-web/static/media/blender.d7aad4b47486542872fc.png",
+    "static/media/github.png": "/Sito-web/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/ue.png": "/Sito-web/static/media/ue.19dea010213ac7051055.png",
+    "static/media/visualStudioCode.png": "/Sito-web/static/media/visualStudioCode.2a307889c8b78572ae12.png",
+    "static/media/html.png": "/Sito-web/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/Sito-web/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/netBeans.png": "/Sito-web/static/media/netBeans.99df5220c5a6cccc6ac3.png",
+    "static/media/javascript.png": "/Sito-web/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Sito-web/index.html",
-    "main.c8656ce0.css.map": "/Sito-web/static/css/main.c8656ce0.css.map",
-    "main.c4f2c72d.js.map": "/Sito-web/static/js/main.c4f2c72d.js.map",
+    "main.b4ab9957.css.map": "/Sito-web/static/css/main.b4ab9957.css.map",
+    "main.73992387.js.map": "/Sito-web/static/js/main.73992387.js.map",
     "787.1c9734da.chunk.js.map": "/Sito-web/static/js/787.1c9734da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8656ce0.css",
-    "static/js/main.c4f2c72d.js"
+    "static/css/main.b4ab9957.css",
+    "static/js/main.73992387.js"
   ]
 }
